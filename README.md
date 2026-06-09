@@ -40,7 +40,7 @@ At the end it prints the Kibana URL, Elasticsearch URL, username, and password.
 | Requirement | Details |
 |-------------|---------|
 | OS | Debian 10 / 11 / 12 or Ubuntu 20.04+ |
-| RAM | 4 GB minimum (8 GB recommended) |
+| RAM | 4 GB minimum (16 GB recommended) |
 | Disk | 10 GB free minimum |
 | Internet | Required to download packages (~1.3 GB) |
 | User | root |
