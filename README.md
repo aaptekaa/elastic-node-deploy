@@ -104,6 +104,7 @@ Full installation log is saved to:
 ```
 /var/log/elk-install.log
 ```
+<img width="450" height="444" alt="image" src="https://github.com/user-attachments/assets/50177de6-5ac3-4318-b26b-e53e4a7a1508" />
 
 ---
 
