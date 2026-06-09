@@ -9,7 +9,7 @@ Installs and fully configures a production-ready single-node ELK stack with secu
 ## Quick Start
 
 ```bash
-wget https://raw.githubusercontent.com/aaptekaa/elk-deploy/main/elk-deploy.sh
+wget https://github.com/aaptekaa/elastic-node-deploy/blob/main/elk-deploy.sh
 bash elk-deploy.sh
 ```
 
